@@ -2,7 +2,7 @@
     "name": "kranovik/module-google-map",
     "description": "N/A",
     "require": {
-        "php": "~7.3.0||~7.4.0",
+        "php": "~7.3.0||~7.4.0||~8.1.0",
         "magento/module-inventory-distance-based-source-selection": "*",
         "magento/module-inventory-in-store-pickup-frontend": "*"
     },
